@@ -1,1 +1,1 @@
-test
+mta-sts policy
